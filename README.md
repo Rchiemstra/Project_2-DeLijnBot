@@ -6,31 +6,31 @@ DeLijnBot is een robot die ontworpen is om de lijn te volgen.
 
 
 <a href="https://youtu.be/BznmDHU5yvs" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/BznmDHU5yvs/0.jpg" width="%80" height="%80" />
+    <img src="https://img.youtube.com/vi/BznmDHU5yvs/0.jpg" width="%50" height="%50" />
 </a>
 
 <a href="https://youtu.be/Ej8mXtT4cG0" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/Ej8mXtT4cG0/0.jpg"  width="%50" height="%80"  />
+    <img src="https://img.youtube.com/vi/Ej8mXtT4cG0/0.jpg"  width="%50" height="%50"  />
 </a>
 
 <a href="https://youtu.be/Uaxrk5mjLa8" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/Uaxrk5mjLa8/0.jpg" width="%50" height="%80" />
+    <img src="https://img.youtube.com/vi/Uaxrk5mjLa8/0.jpg" width="%50" height="%50" />
 </a>
 
 <a href="https://youtu.be/cJyPMj_DOuQ" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/cJyPMj_DOuQ/0.jpg" width="%50" height="%80" />
+    <img src="https://img.youtube.com/vi/cJyPMj_DOuQ/0.jpg" width="%50" height="%50" />
 </a>
 
 <a href="https://youtu.be/XDOsBRTs4BM" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/XDOsBRTs4BM/0.jpg" width="%50" height="%80" />
+    <img src="https://img.youtube.com/vi/XDOsBRTs4BM/0.jpg" width="%50" height="%50" />
 </a>
 
 <a href="https://youtu.be/Xfa8w5xWnzU" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/Xfa8w5xWnzU/0.jpg" width="%50" height="%80" />
+    <img src="https://img.youtube.com/vi/Xfa8w5xWnzU/0.jpg" width="%50" height="%50" />
 </a>
 
 <a href="https://youtu.be/IA4uQrtUIa8" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/IA4uQrtUIa8/0.jpg" width="%50" height="%80" />
+    <img src="https://img.youtube.com/vi/IA4uQrtUIa8/0.jpg" width="%50" height="%50" />
 </a>
 
 
