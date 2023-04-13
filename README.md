@@ -50,3 +50,7 @@ Tijdens dit project hebben we geprobeerd om een tankaandrijving te integreren in
 | TBA            | [LinkedIn](url)                                                   |
 
 ## Bestanden / Files
+
+Design_1_costum: Dit is een map met ontwerpbestanden voor aangepaste onderdelen van de lijnvolgrobot. De map bevat submappen met documenten in verschillende formaten, waaronder 3D-bestanden en Adobe Illustrator-bestanden voor tandwielen en andere onderdelen. Het bevat ook plannen voor het testen van tandwielen en het uitprinten van wielen.
+
+Design_2_standard: Dit is een map met ontwerpbestanden voor standaardonderdelen van de lijnvolgrobot. Het bevat submappen met documenten in verschillende formaten, waaronder een 3D-bestand voor het chassis en een Adobe Illustrator-bestand voor het standaardontwerp.
